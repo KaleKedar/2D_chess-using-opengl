@@ -1,7 +1,5 @@
 # Chess in Open-GL
 
-## Project Proposal
-* The project proposal can be found [here](https://docs.google.com/document/d/1z37KSzulZ_Y5sp6k8m_MwR439biY_9VneI7TwzkIz5g/edit?usp=sharing)
 
 ## About
 “To develop a Multiplayer Chess Game using OpenGL and DevIL in C++ as well as implementing a Greedy algorithm for the CPU Player ”
@@ -38,10 +36,7 @@ g++ chess.cpp -lGL -lGLU -lglut -o chess
 * Week 5 - Fix minor bugs and prepare project report.
 
 ## Team Members
-* Salman Shah
-* Aiman Abdullah
-* Jyoti Prakash Sahoo
-* Abhishek S.
+*Kedar Kale
+*Aditi Gaikwad
+*Shubhankar Chavan
 
-## References
-- [Compiling SOIL in Ubuntu](http://stackoverflow.com/questions/5739527/compiling-opengl-soil-on-ubuntu)
